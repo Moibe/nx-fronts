@@ -1,1 +1,1 @@
-Hola, soy un readme.
+var/www
