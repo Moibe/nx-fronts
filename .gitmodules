@@ -1,6 +1,3 @@
-[submodule "amazonpaypal.cards"]
-	path = amazonpaypal.cards
-	url = git@github.com:Moibe/heroes-front.git
 [submodule "splashmix.ink"]
 	path = splashmix.ink
 	url = git@github.com:Moibe/heroes-front.git
