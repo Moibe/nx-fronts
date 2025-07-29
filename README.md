@@ -1,4 +1,6 @@
-Los fronts de cada sitio que use html público.
+🌐Los fronts de cada sitio que use html público.
 Algunos más complejos son apuntadores a repositorios completos.
 
-var/www
+Actualizar así: 
+cd var/www
+git submodule update --remote --merge --recursive splashmix-login
