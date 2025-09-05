@@ -7,3 +7,9 @@
 [submodule "splashmix-buy"]
 	path = splashmix-buy
 	url = git@github.com:Moibe/splashmix-buy.git
+[submodule "splashmix-buy-dev"]
+	path = splashmix-buy-dev
+	url = git@github.com:Moibe/splashmix-buy.git
+[submodule "splashmix-login-dev"]
+	path = splashmix-login-dev
+	url = git@github.com:Moibe/splashmix-login.git
