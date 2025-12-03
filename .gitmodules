@@ -13,3 +13,7 @@
 [submodule "splashmix-login-dev"]
 	path = splashmix-login-dev
 	url = git@github.com:Moibe/splashmix-login.git
+[submodule "targetvox.com"]
+	path = targetvox.com
+	url = git@github.com:Moibe/heroes-front.git
+	branch = dev
